@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/hakkon_dahlberg"><img src="https://api.daily.dev/devcards/8cbac8efb8cd480981ba4bd6eba4796f.png?r=w13" width="400" alt="Jhonathan Izquierdo Higuita's Dev Card"/></a>
-
 <!--
 **jizquierdoh/jizquierdoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
