@@ -15,8 +15,6 @@
 
 - ⚡ Fun fact **I don't like coffe but usually drink a couple of cups per day.**
 
-<a href="http://example.com/" target="_blank">Hello, world!</a>
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
