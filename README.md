@@ -15,6 +15,8 @@
 
 - ⚡ Fun fact **I don't like coffe but usually drink a couple of cups per day.**
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
