@@ -15,8 +15,6 @@
 
 - ⚡ Fun fact **I don't like coffe but usually drink a couple of cups per day.**
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -33,5 +31,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jizquierdoh&show_icons=true&locale=en&layout=compact" alt="jizquierdoh" /></p>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jkrauzzer&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
