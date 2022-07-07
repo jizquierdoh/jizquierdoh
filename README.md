@@ -102,6 +102,7 @@ I can switch between different tech stacks but I always like to work with a set 
 <br />
 
 <br />
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jkrauzzer&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
