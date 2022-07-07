@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at [SoftwareOne Colombia](https://www.softwareone.com/es-co/)
 
-- 🌱 I’m currently learning **python** **solid-js**
+- 🌱 I’m currently learning **python**, **solid-js** and **svelte**
 
 - 👨‍💻 This is my website [https://jizquierdoh.dev](https://jizquierdoh.dev)
 
