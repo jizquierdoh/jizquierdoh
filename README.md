@@ -13,7 +13,7 @@
 
 
 ### Glad to see you here!  
-I’m a passionate full-stack developer who likes coding, UI design (very bad at the moment), and 
+I’m a passionate full-stack developer who likes coding, UI design (very bad at the moment), and build things.
 
 I can switch between different tech stacks but I always like to work with a set of frameworks / libraries / languages including JavaScript, Typescript and .NET. By using these tools, I have built multiple kinds of solutions from web apps, single page apps or REST services to desktop applications and mobile apps.  
   
