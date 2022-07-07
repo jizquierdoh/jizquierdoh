@@ -47,10 +47,6 @@ I can switch between different tech stacks but I always like to work with a set 
 
 </td></tr></table>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <br/>  
 
 
